@@ -1,0 +1,15 @@
+extracted_modality_dict = {
+    'CT': 'CT',
+    '-CT': 'CT',
+    'CTA': 'CT',
+    'PET-CT': 'PET/CT',
+    'PET/CT': 'PET/CT',
+    'Mammografie': 'Roentgen',
+    "R\u00f6ntgen": 'Roentgen',
+    'MRI-': 'MRI',
+    'MRI': 'MRI',
+    'MRT': 'MRI',
+    'Szinti': 'Szintigrafie',
+    'Sonografie': 'Sonographie',
+    'Sonographie': 'Sonographie',
+}
